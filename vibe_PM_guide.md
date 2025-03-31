@@ -1,3 +1,4 @@
+#source :https://creatoreconomy.so/p/12-rules-to-vibe-code-without-frustration
 ## Product Management
 
 1. Requirements
